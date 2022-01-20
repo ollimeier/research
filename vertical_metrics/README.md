@@ -3,6 +3,7 @@
 The idea of this project is to figure out which application uses which vertical metrics information.
 To figure this out, I have created some demo fonts with broken vertical metrics in specifc areas.
 
+Fonts for testing: ./fonts
 
 | OS  | App             | which vertical metrics       | useTypeMetrics  | referance | notes                                                                            | 
 | ------------- |-----------------|------------------------------|-----------------| ------------- |----------------------------------------------------------------------------------|
