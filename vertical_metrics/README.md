@@ -6,9 +6,9 @@ To figure this out, I have created some demo fonts with broken vertical metrics 
 
 | OS  | App             | which vertical metrics       | useTypeMetrics  | referance | notes                                                                            | 
 | ------------- |-----------------|------------------------------|-----------------| ------------- |----------------------------------------------------------------------------------|
-| MacOS Monterey (Version 12.1) | hhea            | Folder Preview               | no              | Olli Meier | [1]                                                                              |
-| MacOS Monterey (Version 12.1) | hhea            | Folder Preview               | yes             | Olli Meier | [1]                                                                              |
-| MacOS Monterey (Version 12.1) | does not matter | Adobe InDesign 2022 (17.0.1) | does not matter | Olli Meier | Adobe seems to do it's own things. All fonts habe the same vertical metrics [2]. |
+| MacOS Monterey (Version 12.1) |  Folder Preview           | hhea               | no              | Olli Meier | [1]                                                                              |
+| MacOS Monterey (Version 12.1) | Folder Preview            | hhea               | yes             | Olli Meier | [1]                                                                              |
+| MacOS Monterey (Version 12.1) | Adobe InDesign 2022 (17.0.1) | does not matter | does not matter | Olli Meier | Adobe seems to do it's own things. All fonts habe the same vertical metrics [2]. |
 
 
 
