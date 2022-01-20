@@ -14,10 +14,10 @@ To figure this out, I have created some demo fonts with broken vertical metrics 
 
 # Proofs
 [1] Mac 12.1 Folder Preview:
-![Mac 12.1 InDesign 17.0.1](/proofs/olli_meier/Screenshot 2022-01-20 at 16.46.50.png?raw=true "Mac 12.1 Folder Preview")
+![Mac 12.1 InDesign 17.0.1](./proofs/olli_meier/MacPreview.png?raw=true "Mac 12.1 Folder Preview")
 
 
 [2] Mac 12.1 InDesign 2022:
-![Mac 12.1 InDesign 2022](/proofs/olli_meier/Screenshot 2022-01-20 at 17.03.13.png?raw=true "Mac 12.1 InDesign 17.0.1")
+![Mac 12.1 InDesign 2022](./proofs/olli_meier/MacInDesign2022.png?raw=true "Mac 12.1 InDesign 17.0.1")
 
 
