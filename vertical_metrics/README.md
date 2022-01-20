@@ -5,7 +5,7 @@ To figure this out, I have created some demo fonts with broken vertical metrics 
 
 Fonts for testing: ./fonts
 
-| OS  | App             | which vertical metrics       | useTypeMetrics  | referance | notes                                                                            | 
+| OS  | App             | which vertical metrics       | useTypeMetrics  | reference | notes                                                                            | 
 | ------------- |-----------------|------------------------------|-----------------| ------------- |----------------------------------------------------------------------------------|
 | MacOS Monterey (Version 12.1) |  Folder Preview           | hhea               | no              | Olli Meier | [1]                                                                              |
 | MacOS Monterey (Version 12.1) | Folder Preview            | hhea               | yes             | Olli Meier | [1]                                                                              |
