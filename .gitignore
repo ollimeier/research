@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 */*.idea/
+.DS_Store
+*/*.DS_Store
 .idea/
 /venv
 
